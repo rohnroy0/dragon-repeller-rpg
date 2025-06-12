@@ -28,7 +28,7 @@ Play the game here: [Dragon Repeller RPG](https://rohnroy0.github.io/dragon-repe
 ---
 
 ✨ Acknowledgements
-This project was built as a beginner-friendly RPG game to practice DOM manipulation and JavaScript fundamentals.
+- This project was built as a beginner-friendly RPG game to practice DOM manipulation and JavaScript fundamentals.
 ---
 
 📜 License
