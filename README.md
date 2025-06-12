@@ -23,9 +23,13 @@ Play the game here: [Dragon Repeller RPG](https://rohnroy0.github.io/dragon-repe
    ```bash
    git clone https://github.com/rohnroy0/dragon-repeller-rpg.git
 📸 Screenshot
+![](https://github.com/rohnroy0/dragon-repeller-rpg/blob/main/previewjs01.png?raw=true)
+
+---
 
 ✨ Acknowledgements
 This project was built as a beginner-friendly RPG game to practice DOM manipulation and JavaScript fundamentals.
+---
 
 📜 License
 This project is open-source and free to use.
